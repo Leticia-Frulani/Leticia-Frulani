@@ -1,6 +1,7 @@
 # Letícia Frulani
 
 Desenvolvedora Front-End & Design Engineer em formação, cursando o 4º semestre de Análise e Desenvolvimento de Sistemas na FATEC Guaratinguetá e formada em Design Gráfico pela ETEC. 
+
 Skills: React, TypeScript, JavaScript (ES6+), HTML5, CSS3, TailwindCSS, Figma, UX/UI Design, Design Systems, Acessibilidade (WCAG), Node.js e APIs REST.
 
 
